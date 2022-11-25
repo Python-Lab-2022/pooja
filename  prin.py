@@ -1,0 +1,12 @@
+a=int(input("Enter a number:"))
+b=int(input("Enter a number:"))
+print("a=",a)
+print("b=",b)
+c=a+b
+print("c=",c)
+d=4*3
+e=5/7
+f=9-6
+print("d=",d)
+print("e=",e)
+print("f=",f)
